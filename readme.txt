@@ -1,5 +1,5 @@
-add line.
-Why it show on tips' line.
+add line.this new line.
+Why it show on tips' line. some
 Git is a distributed version control system.
 Git is free software distributed under the GPL.
 Git has a mutable index called stage.
